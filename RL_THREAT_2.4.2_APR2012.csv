@@ -1,0 +1,28 @@
+Species ID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Authority,Infraspecific rank,Infraspecific name,Infraspecific authority,Stock/subpopulation,Synonyms,Common names (Eng),Common names (Fre),Common names (Spa),Red List status,Red List criteria,Red List criteria version,Year assessed,Population trend,Petitioned
+231,ANIMALIA,CHORDATA,ACTINOPTERYGII,ACIPENSERIFORMES,ACIPENSERIDAE,Acipenser,dabryanus,"Duméril, 1869",,,,,"","Yangtze Sturgeon, Dabry's Sturgeon, River Sturgeon",,,CR,A2bcd,3.1,2010,decreasing,N
+106007599,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,SYLVIIDAE,Acrocephalus,sorghophilus,"(Swinhoe, 1863)",,,,,"","Speckled Reed Warbler, Streaked Reed-warbler, Streaked Reed-Warbler",,,VU,C2a(ii),3.1,2008,decreasing,N
+172390,ANIMALIA,CHORDATA,ACTINOPTERYGII,CYPRINIFORMES,BALITORIDAE,Bhavania,australis,"(Jerdon, 1849)",,,,,Bhavania annandalei  |Platycara australis  ,"Western Ghats Loach, Western Ghat Leach",,,LC,,3.1,2011,unknown,N
+169866,ANIMALIA,CHORDATA,REPTILIA,SQUAMATA,SCINCIDAE,Emoia,ruficauda,"Taylor, 1915",,,,,"",Red-tailed Swamp Skink,,,DD,,3.1,2009,unknown,N
+155643,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Gyraulus,crenophilus,"Hubendick & Radoman, 1959",,,,,"",,,,EN,B1ab(iii),3.1,2010,unknown,N
+155545,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,PLANORBIDAE,Gyraulus,fontinalis,"Hubendick & Radoman, 1959",,,,,"",,,,EN,B1ab(iii)+2ab(iii),3.1,2010,unknown,N
+173382,PLANTAE,TRACHEOPHYTA,LILIOPSIDA,HYDROCHARITALES,HYDROCHARITACEAE,Halophila,baillonii,Asch.,,,,,"","Clover Grass, Species code: Hl",,,VU,"B2ab(ii,iii)",3.1,2010,decreasing,N
+106002801,ANIMALIA,CHORDATA,AVES,GRUIFORMES,HELIORNITHIDAE,Heliopais,personatus,"(Gray, 1849)",,,,,"","Asian Finfoot, Masked Finfoot",,,EN,A2cd+3cd+4cd,3.1,2009,decreasing,N
+161431,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Himantura,granulata,"(Macleay, 1883)",,,,,Himantura ponapensis  |Trygon granulata  ,"Whitetail Whipray, MacLeay's Coachwhip Ray, Mangrove Ray, Mangrove Whipray, Whitetail Stingray",,,NT,,3.1,2009,unknown,N
+161540,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Himantura,pastinacoides,"(Bleeker, 1852)",,,,,Himantura pareh  |Trygon pastinacoides  ,Round Whipray,,,VU,A2bcd+3bcd+4bcd,3.1,2009,decreasing,N
+161692,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Himantura,uarnak,"(Forsskål, 1775)",,,,,Himantura punctata  |Himantura variegatus  |Raja sephen var. uarnak  ,"Reticulate Whipray, Honeycomb Stingray, Leopard Stingray, Marbled Stingray",Pastenague Léopard,,VU,A2bd+3bd+4bd,3.1,2009,decreasing,N
+161621,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Himantura,undulata,"(Bleeker, 1852)",,,,,Trygon undulata  ,Bleeker's Variegated Whipray,,,VU,A2bd+3bd+4bd,3.1,2009,decreasing,N
+106002229,ANIMALIA,CHORDATA,AVES,STRIGIFORMES,STRIGIDAE,Ketupa,blakistoni,"(Seebohm, 1884)",,,,,"","Blakiston's Fish-owl, Blakiston's Fish-Owl",,Búho Manchú,EN,C2a(i),3.1,2008,decreasing,N
+11534,ANIMALIA,CHORDATA,REPTILIA,TESTUDINES,CHELONIIDAE,Lepidochelys,olivacea,"(Eschscholtz, 1829)",,,,,Chelonia olivacea  ,"Olive Ridley, Pacific Ridley","Ridley du Pacifique, Tortue Bâtarde, Tortue de Ridley, Tortue Olivâtre","Tortuga Carpintera, Tortuga Golfina, Tortuga Guaraguá, Tortuga Lora, Tortuga Manila, Tortuga Mulato, Tortuga Olivacea, Tortuga Parlama",VU,A2bd,3.1,2008,decreasing,N
+155827,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Lyhnidia,gjorgjevici,"Hadzisce, 1959",,,,,Pseudamnicola gjorgjevici  ,,,,EN,B1ab(iii)+2ab(iii),3.1,2010,unknown,N
+166777,ANIMALIA,MOLLUSCA,GASTROPODA,CYCLONERITIMORPHA,NERITIDAE,Nerita,articulata,"Gould, 1847",,,,,Nerita lineata  ,,,,LC,,3.1,2010,unknown,N
+155964,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Ohridohauffenia,sanctinaumi,"(Radoman, 1964)",,,,,Naumia sanctinaumi  |Pseudamnicola saintnaumi  ,,,,EN,B1ab(iii)+2ab(iii),3.1,2010,unknown,N
+156109,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Ohridohoratia,polinskii,"(Radoman, 1960)",,,,,Polinskiola polinskii  ,,,,VU,D2,3.1,2010,unknown,N
+156156,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Ohridohoratia,pygmaea,"(Westerlund, 1902)",,,,,"",,,,NT,,3.1,2010,unknown,N
+155698,ANIMALIA,MOLLUSCA,GASTROPODA,LITTORINIMORPHA,HYDROBIIDAE,Ohrigocea,stankovici,"(Hadice, 1959)",,,,,Horatia stankovici  |Ohridosturanya stankovici  |Pseudamnicola lyhnidia  ,,,,EN,B1ab(iii)+2ab(iii),3.1,2010,unknown,N
+161332,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Pastinachus,sephen,"(Forsskael, 1775)",,,,,Himantura fluviatilis  |Raja sephen  ,Cowtail Stingray,Pastenague Plumetée,,DD,,3.1,2009,unknown,N
+161465,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,DASYATIDAE,Pastinachus,solocirostris,"Last, Manjaji & Yearsley, 2005",,,,,"",Roughnose Stingray,,,EN,A4cd,3.1,2009,unknown,N
+106001097,ANIMALIA,CHORDATA,AVES,CORACIIFORMES,ALCEDINIDAE,Pelargopsis,amauroptera,"(Pearson, 1841)",,,,,"",Brown-winged Kingfisher,,,NT,,3.1,2008,decreasing,N
+106004020,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,PITTIDAE,Pitta,megarhyncha,"Schlegel, 1863",,,,,"",Mangrove Pitta,,,NT,,3.1,2008,decreasing,N
+155691,ANIMALIA,MOLLUSCA,GASTROPODA,HYGROPHILA,LYMNAEIDAE,Radix,relicta,"Polinski, 1929",,,,,"",,,,LC,,3.1,2010,stable,N
+60168,ANIMALIA,CHORDATA,CHONDRICHTHYES,RAJIFORMES,RHINOBATIDAE,Rhinobatos,leucorhynchus,"Günther, 1866",,,,,"","Fiddlefish, Whitenose Guitarfish, Whitesnout Guitarfish",Poisson-guitare Nez Blanc,"Guitarra, Guitarra Trompa Blanca",NT,,3.1,2006,unknown,N
+106007469,ANIMALIA,CHORDATA,AVES,PASSERIFORMES,ZOSTEROPIDAE,Zosterops,flavus,"(Horsfield, 1821)",,,,,"",Javan White-eye,,,NT,,3.1,2008,decreasing,N
